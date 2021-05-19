@@ -1,10 +1,9 @@
-
-.counters{
+.counters {
   color: white;
   font-size: 5rem;
 }
 
-.miss-count{
+.miss-count {
   margin-left: 12%;
 }
 
@@ -24,6 +23,10 @@ footer {
   font-family: sans-serif;
 }
 
+button {
+  vertical-align: middle;
+  display: inline-block;
+}
 
 .main {
   margin: 10% auto;
@@ -73,7 +76,7 @@ footer {
   background-color: #FF4141;
 }
 
-.mode{
+.mode {
   outline: none;
   border: 10px solid #404B69;
   font-size: 2rem;
