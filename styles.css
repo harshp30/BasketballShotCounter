@@ -41,6 +41,10 @@ footer {
   color: red;
 }
 
+.button{
+  display: inline !important;
+}
+
 .shot {
   outline: none;
   border: 10px solid #404B69;
@@ -52,6 +56,20 @@ footer {
   margin-top: 0px;
   background-color: white;
 }
+
+.mode {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  border-radius: 15px;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  background-color: white;
+}
+
 
 .session-end {
   outline: none;
@@ -67,15 +85,3 @@ footer {
   background-color: #FF4141;
 }
 
-.mode {
-  outline: none;
-  border: 10px solid #404B69;
-  font-size: 2rem;
-  border-radius: 15px;
-  width: 100px;
-  height: 100px;
-  margin: 5px;
-  margin-top: 80px;
-  margin-bottom: 50px;
-  background-color: white;
-}
