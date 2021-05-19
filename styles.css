@@ -1,0 +1,89 @@
+
+.counters{
+  color: white;
+  font-size: 5rem;
+}
+
+.miss-count{
+  margin-left: 12%;
+}
+
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+
+.main {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.shot {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 200px;
+  text-align: center;
+  margin: 20px;
+  margin-top: 0px;
+  background-color: white;
+}
+
+.session-end {
+  outline: none;
+  border: 10px solid #DF0000;
+  font-size: 2rem;
+  color: white;
+  border-radius: 15px;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  margin: 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background-color: #FF4141;
+}
+
+.mode{
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  border-radius: 15px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 5px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  background-color: white;
+}
