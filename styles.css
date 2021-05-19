@@ -41,8 +41,9 @@ footer {
   color: red;
 }
 
-.button{
+span.button {
   display: inline !important;
+  vertical-align: middle;
 }
 
 .shot {
@@ -70,7 +71,6 @@ footer {
   background-color: white;
 }
 
-
 .session-end {
   outline: none;
   border: 10px solid #DF0000;
@@ -84,4 +84,3 @@ footer {
   margin-bottom: 30px;
   background-color: #FF4141;
 }
-
