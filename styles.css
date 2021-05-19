@@ -51,7 +51,6 @@ button {
   border: 10px solid #404B69;
   font-size: 5rem;
   border-radius: 15px;
-  display: inline-block;
   width: 150px;
   height: 200px;
   text-align: center;
@@ -66,7 +65,6 @@ button {
   font-size: 2rem;
   color: white;
   border-radius: 15px;
-  display: inline-block;
   width: 300px;
   height: 100px;
   text-align: center;
@@ -81,7 +79,6 @@ button {
   border: 10px solid #404B69;
   font-size: 2rem;
   border-radius: 15px;
-  display: inline-block;
   width: 100px;
   height: 100px;
   text-align: center;
