@@ -41,8 +41,8 @@ footer {
   color: red;
 }
 
-span.button {
-  display: inline !important;
+.button {
+  display: inline;
   vertical-align: middle;
 }
 
